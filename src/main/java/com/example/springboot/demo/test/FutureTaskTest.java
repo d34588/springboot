@@ -38,7 +38,7 @@ public class FutureTaskTest {
             }
         }
 
-        System.out.println("^^^^");
+        System.out.println("^^^^^");
         Thread.sleep(10);
 
 //        for (int i = 0; i < 10; i++) {
